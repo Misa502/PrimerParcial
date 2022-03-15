@@ -4,10 +4,10 @@
  # Temas que mas me gustaron durante el ciclo.
 
  * Red de computadoras.
- @octocat 👍 * World wide web. 
+ * World wide web. 😊
  * Metodologias agiles.
  * Programación extrema.
- @octocat 👍 * Kanban. :EMOJICODE:
+ * Kanban. 😁
  * Reuniones en Scrum.
  - ¿Que se hizo ayer?/¿Que se hizo hoy? *
   - ¿Que se hara hoy?/¿Que se hara mañana? *
