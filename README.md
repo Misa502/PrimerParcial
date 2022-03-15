@@ -1,20 +1,21 @@
 # PrimerParcial
  Este es un REPOSITORIO del primer parcial
 
- ## Temas que mas me gustaron durante el ciclo.
+ # Temas que mas me gustaron durante el ciclo.
 
  * Red de computadoras.
- * World wide web. :EMOJICODE:
+ @octocat 👍 * World wide web. 
  * Metodologias agiles.
  * Programación extrema.
- * Kanban. :EMOJICODE:
- ### Reuniones en Scrum.
+ @octocat 👍 * Kanban. :EMOJICODE:
+ * Reuniones en Scrum.
  - ¿Que se hizo ayer?/¿Que se hizo hoy? *
   - ¿Que se hara hoy?/¿Que se hara mañana? *
    - ¿Que problemas se encontraron? *
  * Github. :EMOJICODE: 
  * Hithub Desktop.
  * Selecciones primcipales de git.
-' int(input('')) '
+" int(input('')) "
+
 
 
